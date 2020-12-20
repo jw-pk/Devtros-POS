@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fe8mnBfMH+rBi69Kh7CpK0cVNcMYWAP9MGXFsCCMvJ3o02gn/nNs0vCqiwijZTnC0E3cgslPnn9OhOl2su0i4w==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\desktop\\Devtros-POS\\Devtros-POS\\Devtros-POS\\Devtros-POS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Samy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
